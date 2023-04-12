@@ -21,6 +21,6 @@ for(let x in fruits){
 
 console.log(fruits[x]);
 if (fruits[x] == "avocado") {
-    console.log("Avocado not any fruit")
+    console.log("Avocado not anyj fruit")
 }
 }

@@ -10,7 +10,7 @@ console.log(myShoppingList);
 const cat = {
     name: "Barsik",
     gender: "Male",
-    age: 2,
+    age: 5,
     color: "brown",
     food: ["fish", "meat", "mouse"],
     say_may: function (){

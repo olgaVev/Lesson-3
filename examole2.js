@@ -1,4 +1,4 @@
-console.log(multiplayTwoNumbers(10,2))
+console.log(multiplayTwoNumbers(20,2))
 console.log(Name("Olga"))
 
 function multiplayTwoNumbers(numberOne, numberTwo){

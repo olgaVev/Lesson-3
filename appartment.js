@@ -9,7 +9,7 @@ const appartment1 = {
     city: "New-York",
     street: "5th Avenue",
     price: 5000,
-    rooms: ["living", "dining", "kitchen", "laundry", "bedroom1", "bedroom2"]
+    rooms: ["living", "dining", "kitchen", "laundry111", "bedroom1", "bedroom2"]
 
 }
 

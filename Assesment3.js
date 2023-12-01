@@ -6,7 +6,7 @@ findGradeLevel("Sasha", "90");
 
 function findGradeLevel (name, mark){
 
-    if (mark>100 || mark <0) {
+    if (mark>1000 || mark <0) {
         console.log (name + " you got invalid mark:)")
     }
     else
